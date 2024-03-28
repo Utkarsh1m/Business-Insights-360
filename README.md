@@ -39,3 +39,16 @@ Conclusion:
 The Business Insights 360 initiative propelled AtliQ Hardware towards a data-driven paradigm, fostering operational efficiency and informed decision-making. 
 By harnessing the power of Microsoft Power BI and adept data integration strategies, 
 AtliQ Hardware stands poised to navigate dynamic market landscapes with agility and foresight
+SCREENSHOTS
+![A_H_HOM](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/b26f4d07-14b4-4cdf-a108-a8a634f2b612)
+
+![A_H_FIN](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/ee64bada-4898-42f7-ae80-e321372d2dc4)
+
+![A_H_MKT](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/b2e6b740-66e7-49fa-a54d-b4d6e4d0cbe5)
+
+![A_H_SALE](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/c0f20052-6526-4410-8469-2f22cc437e9b)
+
+![A_H_SUPPLY](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/08f42da1-8e7a-4bce-becb-a8b8aa40318c)
+
+![A_H_DATA_M](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/d27d282c-9e8e-4779-848e-a842f9fff296)
+
