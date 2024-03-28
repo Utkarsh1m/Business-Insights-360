@@ -49,7 +49,10 @@ AtliQ Hardware stands poised to navigate dynamic market landscapes with agility 
 
 ![A_H_SALE](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/c0f20052-6526-4410-8469-2f22cc437e9b)
 
+
 ![A_H_SUPPLY](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/08f42da1-8e7a-4bce-becb-a8b8aa40318c)
 
 ![A_H_DATA_M](https://github.com/Utkarsh1m/Business-Insights-360/assets/159425641/d27d282c-9e8e-4779-848e-a842f9fff296)
+
+https://www.linkedin.com/in/utkarsh-mishra-7a14a514b/
 
